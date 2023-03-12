@@ -1,0 +1,16 @@
+{
+    "info":[
+        {
+        "Name": "LADY DIANA J. GAMOT",
+        "Age":"22",
+        "Favorite_Quotes":"Take the risk. Don't let the unknown stop you"
+        }
+    ],
+    "student":[
+        {
+        "Class_Section":"T90",
+        "section_Code":"CC 131",
+        "Buksu_Email":"2001102819@student.buksu.edu.ph"
+        }
+    ]
+}
