@@ -1,0 +1,16 @@
+{
+    "student": [
+        {
+            "Name": "Lady Diana J. Gamot",
+            "Age": "22",
+            "Favorite_Quotes": "Take the risk. Don't let the unknown stop you" 
+        }
+    ],
+    "details": [
+        {
+           "Class Section": "T90",
+           "Section Code": "CC 131",
+           "Buksu Email": "2001102819@student.buksu.edu.ph"
+        }
+    ]
+}
